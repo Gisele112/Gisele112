@@ -1,5 +1,4 @@
 <!-- Replace "your-image-path.jpg" with the correct path or URL to your image -->
-<img src="https://github.com/Gisele112/Gisele112/blob/main/pic3-removebg-preview.png" alt="Gisele's Profile Photo" width="200" />
 
 # Hi there, I'm Gisele! 👋
 
